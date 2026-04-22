@@ -138,5 +138,5 @@ This staggered scheduling ensures that even if one backup tier fails, the others
 
 ## 👤 Author
 
-**Changjae Chung** — Cyber Security Specialist
+**Changjae Chung** — Cybersecurity Specialist
 🔗 [LinkedIn](https://www.linkedin.com/in/changjae-chung-374821176)
