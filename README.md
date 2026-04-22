@@ -133,7 +133,8 @@ This staggered scheduling ensures that even if one backup tier fails, the others
     ├── backup-topology.jpg
     └── backup-topology.drawio
 ```
-
+> ⚠️ **Disclaimer**: This documentation describes the architecture and approach only. 
+> No proprietary configurations, credentials, or company-identifying information are included.
 ---
 
 ## 👤 Author
