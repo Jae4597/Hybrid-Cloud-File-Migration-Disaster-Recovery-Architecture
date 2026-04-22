@@ -3,7 +3,7 @@
 > Migrated corporate file shares to Azure Files with near real-time sync from on-premises Windows Server, secured remote access via Azure VPN with Private Endpoints, and built a 3-tier backup topology for disaster recovery.
 
 **Duration:** January 2026 – February 2026
-**Role:** Cyber Security Specialist (Sole Architect & Implementer)
+**Role:** Cybersecurity Specialist (Sole Architect & Implementer)
 
 ---
 
