@@ -128,9 +128,9 @@ This staggered scheduling ensures that even if one backup tier fails, the others
 .
 ├── README.md
 └── diagrams/
-    ├── access-flow.png
+    ├── access-flow.jpg
     ├── access-flow.drawio
-    ├── backup-topology.png
+    ├── backup-topology.jpg
     └── backup-topology.drawio
 ```
 
