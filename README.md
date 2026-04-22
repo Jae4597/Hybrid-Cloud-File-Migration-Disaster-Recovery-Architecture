@@ -27,7 +27,7 @@ Deliver a hybrid storage architecture that:
 
 ### 1. Access Flow (In-Office vs. Out-of-Office)
 
-![Access Flow Diagram](./diagrams/access-flow.png)
+![Access Flow Diagram](./diagrams/access-flow.jpg)
 
 | Scenario | Access Path |
 |---|---|
@@ -36,7 +36,7 @@ Deliver a hybrid storage architecture that:
 
 ### 2. Backup Topology (3-Tier DR Strategy)
 
-![Backup Topology Diagram](./diagrams/backup-topology.png)
+![Backup Topology Diagram](./diagrams/backup-topology.jpg)
 
 | Tier | Source | Destination | Schedule | Method |
 |---|---|---|---|---|
